@@ -30,7 +30,7 @@ I would always thinking it is really possible to apply that in exagear or not. A
 But remember this patches only work on The Sims 2, Ultimate Collection, Pet Stories and Castaway Stories other sims 2 game like Life Stories is not working currently (only renders black textures).
 Note: Installing latest expansion for The Sims 2 base game is necessary
 
-Installater, Compiling and Running TS2 on Exagear created by CoreLand Youtube Channel: https://www.youtube.com/@coreland2
+Installer, Compiling and Running TS2 on Exagear created by CoreLand Youtube Channel: https://www.youtube.com/@coreland2
 
 ## Credits and Third-party
 [sims2-wine-patches](https://github.com/lah7/sims2-wine-patches)
