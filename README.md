@@ -19,7 +19,9 @@ The Sims 2 requests 1024 vertex shader constants, but Wine has a hardcoded limit
 
 ### Requirements:
 Wine: 3.10 - 4.0 (Built-in) - different versions e.g. 6.0, 7.1, etc (Native)
+
 GPU: wine 3.10 (Turnip & VirtIO) - wine 4.0 (Turnip)
+
 -Red Hat VirtIO not supported causes black screen and crashes immediately.
 
 ### What about Exagear? Nice Idea
