@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   
-## The Sims 2 D3D Fix
+# The Sims 2 D3D Fix
 
 </div>
 
