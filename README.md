@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/erfan2255/TS2D3DFIX">
-    <img src="logo/logo.png" alt="Logo">
+    <img src="images/interface.png" alt="Logo">
   </a>
   </div>
 
