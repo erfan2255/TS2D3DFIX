@@ -15,7 +15,7 @@
 
 ## How to play The Sims 2 in Exagear?
 Hi! Well actually these patches created by Wine Users and it took a lot of time and effort thus Thanks to swswine, Robert Walker, Alexandr Oleynikov, Paul Gofman, Luke Horwell and all others who tried to make it possible to run The Sims 2 under Wine. running the sims 2 on exagear was impossible and a big trouble btw after weeks I got it how to run so I applied and compiled these patches in exagear built-in. additionally I applied patches on WineD3D Dlls Native (thanks to Federico Dossena for his advice) it means The Sims 2 can be run on every Wine versions.
-* <b>2023 Update:</b> DXVK implemented in Exagear and D3DFIX no longer needed unless you choose wined3d or your phone doesnt support dxvk (suitable for Mali gpu users)
+* <b>2023 Update:</b> DXVK implemented in Exagear and D3DFIX no longer needed unless you choose wined3d or your phone doesn't support dxvk (suitable for Mali gpu users)
 ### Whats the problem?
 The Sims 2 crashes with Direct3D returned an error:
 D3DERR_INVALIDCALL!. Why? here is your answer
