@@ -13,8 +13,11 @@ Hi! Well actually these patches created by Wine Users and it took a lot of time 
 * <b>2023 Update:</b> DXVK implemented in Exagear and D3DFIX no longer needed unless you choose wined3d or your phone doesn't support dxvk (suitable for Mali gpu users)
 ### Whats the problem?
 The Sims 2 crashes with Direct3D returned an error:
+
 D3DERR_INVALIDCALL! Why? here is your answer
+
 Hardcoded 256 vertex shaders.
+
 The Sims 2 requests 1024 vertex shader constants, but Wine has a hardcoded limit of 256. Direct3D 9 normally supports up to 8192, using hardware shaders first (where available), followed by software emulation. Software emulation is currently not supported in Wine.
 
 ### Requirements:
