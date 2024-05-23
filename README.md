@@ -1,8 +1,6 @@
 <br />
-<div align="center">
-  
+<div align="center"> 
 ## The Sims 2 D3D Fix
-
 </div>
 
 <!-- PROJECT LOGO -->
