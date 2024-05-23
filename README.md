@@ -1,9 +1,4 @@
-<br />
-<div align="center"> 
-  
-## The Sims 2 D3D Fix
-</div>
-
+ ## The Sims 2 D3D Fix
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
