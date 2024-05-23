@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/erfan2255/PTS2">
+  <a href="https://github.com/erfan2255/TS2D3DFIX">
     <img src="images/logo.png" alt="Logo">
   </a>
 ## How to play The Sims 2 in Exagear?
