@@ -22,7 +22,7 @@ Wine: 3.10 - 4.0 (Built-in) - different versions e.g. 6.0, 7.1, etc (Native)
 
 GPU: wine 3.10 (Turnip & VirtIO) - wine 4.0 (Turnip)
 
--Red Hat VirtIO not supported causes black screen and crashes immediately.
+- Red Hat VirtIO GPU ID not supported causes black screen and crashes immediately (use fake gpu name)
 
 ### What about Exagear? Nice Idea
 I would always thinking it is really possible to apply that in exagear or not. After weeks I got it how to avoid this error so applied patches in builtin cache then game works perfect using these workarounds.
