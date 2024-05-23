@@ -1,9 +1,10 @@
-## The Sims 2 D3D Fix
+
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
+  ## The Sims 2 D3D Fix
   <a href="https://github.com/erfan2255/TS2D3DFIX">
     <img src="logo/logo.png" alt="Logo">
   </a>
