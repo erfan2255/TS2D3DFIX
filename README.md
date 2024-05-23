@@ -7,7 +7,7 @@
   <a href="https://github.com/erfan2255/TS2D3DFIX">
     <img src="logo/logo.png" alt="Logo">
   </a>
-  < /br>
+  </div>
 
   
 ## How to play The Sims 2 in Exagear?
