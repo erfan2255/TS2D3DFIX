@@ -5,7 +5,7 @@
   <a href="https://github.com/erfan2255/TS2D3DFIX">
     <img src="logo/logo.png" alt="Logo">
   </a>
-  
+  </br>
 ## How to play The Sims 2 in Exagear?
 Hello Thank you for downloading this Installer actually these patches created by Wine Users and it took a lot of time and effort thus Thanks to swswine, Robert Walker, Alexandr Oleynikov, Paul Gofman, Luke Horwell and all others who tried to make it possible to run The Sims 2 under Wine. running the sims 2 on exagear was impossible and a big trouble btw after weeks I got it how to run so I applied and compiled these patches in exagear built-in. additionally I applied patches on WineD3D Dlls Native (thanks to Federico Dossena for his advice) it means The Sims 2 can be run on every Wine versions.
 
