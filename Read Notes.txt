@@ -1,0 +1,38 @@
+Notes:
+Last Update 17/4/2022
+
+* Built-in or Native?
+there is no difference! If you dont want to use any WineD3D and if you're using wine 3.10 so use Built-in. But if you're using wine 4.0 and higher so go for Native because VirtIO is not supported since wine 4.0 (known as Red Hat VirtIO) it causes black screen and crashes immediately.
+* WineD3D Uninstaller is included for easier access
+
+
+* Wine 3.7 patches or Wine 3.18 patches?
+Idk. as I read Wine 3.7 with staging patches and Wine 3.18 works with newer drivers.
+I added both so you tell me difference
+
+
+* CSMT On or Off?
+To Enable or Disable double click on each reg files. csmt is slightly increase performance in some games and depends what game is. for the sims 2 in neighborhoods you don't need to enable but if you go outside of neighborhood like downtowns, parks, college or crowded place definitely with csmt on(1) you get higher FPS
+for example with SD870 csmt on in restaurant is 12 FPS and csmt off is 5 FPS
+it increases FPS but the phone heats up and consumes more battery
+
+
+* To Force Shader Model 2 double click on Force Shader 2.reg then it automatically will be added to your regedit (adds MaxShaderModelPS, MaxShaderModelVS. you can remove them in regedit: HKEY_CURRENT_USER\SOFTWARE\WINE\Direct3D\
+* Why do I have to force shader 2?
+If you have Season expansion, Snow on ground in neighborhoods turns to black so to fix this you have to force Shader Model 2 via the registery in regedit or just Turn Off snow on ground or just Force Shader 2 in winter
+But I think Cutscenes will be broken or likely crash! (Turn off cutscenes to avoid go to camera and disable special events)
+
+
+* To Fix Corrupted Family Thumbnails for other Sims games, change directory yourself (Pet Stories or Castaway Stories)
+
+
+* Polygon Explosion occurs:
+Icons above a Sim's head (like the one when you get a new friend) can appear glitchy.
+
+
+That's All. Enjoy
+
+The Sims 2 PC Version on Android:
+https://youtu.be/uE3XbVvMLh4
+- Coreland YouTube Channel
+
